@@ -77,6 +77,7 @@ class CategoryViewController: UITableViewController {
     }
     
     
+    
     //MARK: - Data Manipulation Methods
     
     func saveCategories() {
